@@ -35,9 +35,13 @@ The notebook includes the following key steps:
 
 This sample notebook is intended for use in:
 
-- Risk modeling
-- Catastrophe (Cat) risk modeling
-- Insurance risk modeling
+This sample notebook demonstrates how to build and evaluate a hurricane impact model that can be easily adapted in the future for:
+
+- Enterprise risk modeling: quantifying property-level loss exposure across multiple perils, including hurricanes.
+
+- Catastrophe risk analysis: generating hurricane-specific loss estimates and aggregate exceedance probability curves.
+
+- Insurance claims forecasting: predicting claim frequency and severity following landfall, to support underwriting, pricing, and reserve setting.
 
 ## Dependencies
 
